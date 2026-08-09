@@ -7,7 +7,7 @@ Overseeing global travel platforms, B2B portals, and enterprise IAM systems from
 
 I specialize in bridging the gap between strategic platform oversight and hands-on technical execution. My work blends engineering leadership with a deep focus on cloud architecture, identity management, and developer experience. 
 
-🔭 Currently leading the delivery and stability of **7 global platforms**, managing distributed engineering teams of **30+ developers and QA specialists**.
+🔭 Currently leading the delivery and stability of **7 global platforms**, managing distributed engineering teams of **~30 developers and QA specialists**.
 
 🌱 Broadening my project execution framework with the recently completed **Google Project Management Professional Certificate**.
 
