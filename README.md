@@ -9,6 +9,6 @@ I specialize in bridging the gap between strategic platform oversight and hands-
 
 🔭 Currently leading the delivery and stability of **7 global platforms**, managing distributed engineering teams of **~30 developers and QA specialists**.
 
-🌱 Broadening my project execution framework with the recently completed **Google Project Management Professional Certificate**.
+🌱 Recently completed **Google Project Management Professional Certificate**.
 
 🚀 Deepening my cloud infrastructure expertise – currently preparing for both the **AWS Certified AI Practitioner** and **AWS Certified Solutions Architect Associate** exams.
